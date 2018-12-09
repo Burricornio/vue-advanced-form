@@ -24,3 +24,14 @@ yarn run test
 ```
 yarn run lint
 ```
+
+# json-server
+
+## setup
+```
+cd json-server
+```
+
+```
+json-server --watch db.json
+```
