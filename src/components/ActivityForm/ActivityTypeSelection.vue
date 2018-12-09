@@ -52,9 +52,9 @@ export default {
   data () {
     return {
       activity_types: [
-        { id:1, type: 'Fútbol' },
-        { id:2, type: 'Baloncesto' },
-        { id:3, type: 'Tennis' },
+        { id: 1, type: 'Fútbol' },
+        { id: 2, type: 'Baloncesto' },
+        { id: 3, type: 'Tennis' }
       ]
     }
   }

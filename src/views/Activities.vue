@@ -129,7 +129,7 @@ export default {
     }
   },
   async mounted () {
-    const {data} = await this.axios({
+    const { data } = await this.axios({
       method: 'GET',
       url: '/activities_subscriptions/1'
     })
