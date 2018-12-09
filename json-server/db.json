@@ -1,0 +1,20 @@
+{
+  "activities_subscriptions": [
+    {
+      "terms": true,
+      "personal_data": {
+        "name": "Lemmy",
+        "surname": "Ciges"
+      },
+      "activity_type_selection": {
+        "type": 1,
+        "date": "2018-12-09"
+      },
+      "activity_selected_data": {
+        "team": "Leganés",
+        "information": ""
+      },
+      "id": 1
+    }
+  ]
+}
